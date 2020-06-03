@@ -1,5 +1,5 @@
-var LINK_TO_LOCAL_JSON_FILES = true;
-var DIAGNOSTICS = true;
+var LINK_TO_LOCAL_JSON_FILES = true; // i.e. collection based tune graphs rather than global tune graphs as used on abcnotation.com
+var DIAGNOSTICS = false;
 var MIRROR = true; // set to true for sites that are mirroring 'http://abcnotation.com/dev/TuneGraphDemonstrator' - otherwise the wrong tuneCode is constructed from the mirror URL
 
 window.onload = init;
