@@ -1,11 +1,11 @@
-var LINK_TO_LOCAL_JSON_FILES = true; // i.e. collection based tune graphs rather than global tune graphs as used on abcnotation.com
+var LINK_TO_COLLECTION_BASED_TUNE_GRAPHS = true; // i.e. collection based tune graphs rather than global tune graphs as used on abcnotation.com
 var DIAGNOSTICS = false;
 var MIRROR = true; // set to true for sites that are mirroring 'http://abcnotation.com/dev/TuneGraphDemonstrator' - otherwise the wrong tuneCode is constructed from the mirror URL
 
 window.onload = init;
 
 function init() {
-	var suffix = LINK_TO_LOCAL_JSON_FILES ? '_local' : '';
+	var suffix = LINK_TO_COLLECTION_BASED_TUNE_GRAPHS ? '_local' : '';
 	var abcElements = document.getElementsByClassName('divAbcTuneGraphContainer');
 	var nAbcCanvasElements = document.getElementsByClassName('divAbcTuneGraphCanvas').length;
 	var nAbcScoreElements = document.getElementsByClassName('divAbcTuneGraphScore').length;
@@ -23,7 +23,7 @@ function init() {
 		}
 		var jsonFileName = 'http://abcnotation.com/getResource/resources/data_/title' + suffix + '.json?a=' + tuneCode;
 		if (!DIAGNOSTICS) {
-			TuneGraph(jsonFileName, tuneId + '.canvas', tuneId + '.score', false, LINK_TO_LOCAL_JSON_FILES, DIAGNOSTICS);
+			TuneGraph(jsonFileName, tuneId + '.canvas', tuneId + '.score', false, LINK_TO_COLLECTION_BASED_TUNE_GRAPHS, DIAGNOSTICS);
 		} else {
 			var canvasDiv = document.getElementById(tuneId + '.canvas');
 			canvasDiv.innerHTML = '<p> ' + jsonFileName + '</p>';
