@@ -23,18 +23,18 @@ function init() {
 	}
     if (DIAGNOSTICS) {
         var diagnosticsDiv = document.getElementById('tuneGraphDiagnostics');
-        diagnosticsDiv.innerHTML = '<p>' + window.location.hostname + window.location.pathname + '(' + nTablesCreated + ' tables created)</p>';
+        diagnosticsDiv.innerHTML = '<p>' + window.location.hostname + window.location.pathname + ' (' + nTablesCreated + ' tables created)</p>';
         //var containerElements = document.getElementsByClassName('divAbcTuneGraphContainer');
         //for (var i = 0; i < containerElements.length; ++i) {
         //    var tuneCode = window.location.hostname + window.location.pathname + '/' + containerElements[i].id;
         //    containerElements[i].innerHTML = '<p> ' + tuneCode + '</p>';
         //}
-        var canvasElements = document.getElementsByClassName('divTuneGraphCanvas');
+        var canvasElements = document.getElementsByClassName('divAbcTuneGraphCanvas');
         for (var i = 0; i < canvasElements.length; ++i) {
             var tuneCode = window.location.hostname + window.location.pathname + '/' + canvasElements[i].id;
             canvasElements[i].innerHTML = '<p> ' + tuneCode + '</p>';
         }
-        var scoreElements = document.getElementsByClassName('divTuneGraphScore');
+        var scoreElements = document.getElementsByClassName('divAbcTuneGraphScore');
         for (var i = 0; i < scoreElements.length; ++i) {
             var tuneCode = window.location.hostname + window.location.pathname + '/' + scoreElements[i].id;
             scoreElements[i].innerHTML = '<p> ' + tuneCode + '</p>';
