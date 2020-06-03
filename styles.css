@@ -1,0 +1,16 @@
+td {
+    padding:5px 15px;
+}
+html {
+    font-family: Helvetica, sans-serif;
+}
+div.divAbcTuneGraphCanvas { /* for TuneGraph */
+    width: 300px;
+    height: 300px;
+}
+
+div.divAbcTuneGraphScore { /* for TuneGraph */
+    width: 300px;
+}
+.link{fill:none;stroke:#666;stroke-width:1.5px;stroke-opacity:.6}
+.node circle{fill:#ccc;stroke:#fff;stroke-width:1.5px}

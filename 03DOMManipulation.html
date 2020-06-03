@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Test rig</title>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="shortcut icon" href="favicon.ico">
+    </head>
+    <body id="thePage">
+        <div class="abc" id="0001">
+            <pre>
+X:1
+T:title
+K:C
+            </pre>
+        </div>
+        <script>
+            // init() is called when the window is loaded.
+            window.onload = init;
+
+            function init() {
+                'use strict';
+
+                // init() adds an event listener to the form
+                var abcElement = document.getElementsByClassName('abc')[0];
+                var id = abcElement.id;
+                var abcElementChildren = abcElement.childNodes;
+                var abcCodeElement;
+                for (var c = 0; c < abcElementChildren.length; ++c) {
+                    if (abcElementChildren[c].nodeType === Node.ELEMENT_NODE) {
+                        abcCodeElement = abcElementChildren[c];
+                        break;
+                    }
+                }
+                var ihtml = abcElement.innerHTML;
+//                abcElement.innerHTML = '<table><tr><td><pre id="' + id + '.abc">' + abcCodeElement.innerHTML + '</pre></td><td><div id="' + id + '.canvas" class="divTuneGraphCanvas">blah</div></td><td><div id="' + id + '.score" class="divTuneGraphScore">blah, blah</div></td></table>';
+                abcElement.innerHTML = '<table><tr><td>' + abcElement.innerHTML + '</td><td><div id="' + id + '.canvas" class="divTuneGraphCanvas">blah</div></td><td><div id="' + id + '.score" class="divTuneGraphScore">blah, blah</div></td></table>';
+                var abcCodeCell = document.getElementById(id);
+                abcCodeCell.style.backgroundColor = 'red';
+                var abcCanvasElement = document.getElementById(id + '.canvas');
+                abcCanvasElement.style.backgroundColor = 'green';
+                var abcScoreElement = document.getElementById(id + '.score');
+                abcScoreElement.style.backgroundColor = 'blue';
+            }
+        </script>
+    </body>
+</html>
