@@ -1,5 +1,5 @@
 var LINK_TO_LOCAL_JSON_FILES = true;
-var DIAGNOSTICS = false;
+var DIAGNOSTICS = true;
 
 window.onload = init;
 
