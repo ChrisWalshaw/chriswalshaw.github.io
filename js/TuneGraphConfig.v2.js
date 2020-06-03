@@ -1,5 +1,5 @@
 var LINK_TO_LOCAL_JSON_FILES = true;
-var DIAGNOSTICS = false;
+var DIAGNOSTICS = true;
 var MIRROR = true; // set to true for sites that are mirroring 'http://abcnotation.com/dev/TuneGraphDemonstrator' - otherwise the wrong tuneCode is constructed from the mirror URL
 
 window.onload = init;
