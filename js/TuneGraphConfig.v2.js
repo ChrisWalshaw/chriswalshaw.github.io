@@ -1,5 +1,5 @@
 var LINK_TO_LOCAL_JSON_FILES = true;
-var DIAGNOSTICS = true;
+var DIAGNOSTICS = false;
 var MIRROR = true; // set to true for sites that are mirroring 'http://abcnotation.com/dev/TuneGraphDemonstrator' - otherwise the wrong tuneCode is constructed from the mirror URL
 
 window.onload = init;
@@ -19,7 +19,7 @@ function init() {
 		}
 		var tuneCode = window.location.hostname + window.location.pathname + '/' + tuneId;
 		if (MIRROR) {
-			tuneCode = 'abcnotation.com/dev/TuneGraphDemonstrator/' + window.location.pathname + '/' + tuneId;
+			tuneCode = 'abcnotation.com/dev/TuneGraphDemonstrator' + window.location.pathname + '/' + tuneId;
 		}
 		var jsonFileName = 'http://abcnotation.com/getResource/resources/data_/title' + suffix + '.json?a=' + tuneCode;
 		if (!DIAGNOSTICS) {
