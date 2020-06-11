@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Anton|Nunito|PT+Sans+Narrow|Ubuntu|Rammetto+One|Suez+One');
 body {
 	font-family: 'Ubuntu', sans-serif;
-	font-size: 20;
+	/*font-size: 20;*/
 	margin: 25px 10px;
 }
 
