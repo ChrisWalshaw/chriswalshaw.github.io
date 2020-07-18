@@ -1,0 +1,141 @@
+H:The Duellists - English Hurdy Gurdy Music
+H:process with abc2ps -P -b -o -O = EnglishHurdyGurdyMusic
+
+X:1
+T:Alfriston
+C:Chris Walshaw
+R:bourr\'ee (3-time)
+M:3/8
+K:F
+^FG|A2B2G2|^F2DEFG|A2B2G2|^F4D2|~G6|~A6|[1 B2d2c2|A4:|[2 A2GAG^F|G4|]
+K:D
+FG|A2F2d2|B2G2d2|ABAGFG|A2FEFG|A2F2d2|B2G2d2|ABAGFE|[1 DEFE:|[2 D4|]
+
+X:2
+T:Miserden
+C:Chris Walshaw
+R:waltz (5-time)
+M:5/4
+L:1/4
+K:GMix
+A2G FG|A2G BG|A2G FG|A^FD BG:|\
+d2c BA|c2B AG|A2G FG|A^FD BG|\
+d2c BA|c2B AG|c2B AB|dA^F BG|]
+
+X:3
+T:Indigo
+C:Cliff Stapleton
+R:waltz
+M:3/4
+K:C
+A2 F2 D2|EF GA GF|A2 F2 D2|EF G4|A2 F2 D2|EF GA GF|A2 F2 D2|1 B2 G2 E2:|2 B4|]
+FG|A3 F A2|c3 B cd|c2 B2 AB|G4 AB|1 c4 B2|A2 B2 G2|F2 G2 E2|F4:|2 c3 d cB|A2 B2 G2|F2 G2 E2|D6|]
+
+X:4
+T:Duellists, The
+C:Nigel Eaton
+R:scottische
+M:4/4
+K:D
+A2A^G ABG2|A^GAB F4|A^GAB FBAG|E4 F4|\
+A2A^G ABAB|=c2BA F4|FA^G2 E=GF2|D4-D4:|
+d2dc dec2|dcde A2(3cde|cBA2 FA^G2|E=GF2 E2ED|\
+d2dc dede|f2ed A4|FA^G2 E=GF2|D4-D4:|
+
+X:5
+T:Doyenne
+C:Cliff Stapleton
+R:march
+M:C
+K:F
+^c2|:d3e cdBc|A3B cBA2|G2AG F2GF|F2 E4 D2|d3e cdBc|A3B cBA2|G2AG F2GF|E6|]
+DE|F3D EFAG|F2 E4 DE|FDEF AGFG|E6 DE|F3D EFAG|F2 E4 FE|DEFA FGFE|D6|]
+
+X:6
+T:Capriole
+C:Cliff Stapleton
+R:jig
+M:6/8
+K:C
+D2E FAF|G2A GFE|D2E FAF|B2G A3|D2E FAF|G2A GFE|D2E FAF|B2G A3:|
+D2F AcA|B2A GAc|d2c e2e|GAG E3|D2F AcA|B2A GAc|d2c e2e|BAG A3:|
+
+X:7
+T:Drystone
+T:Miserden Jig, The
+C:Chris Walshaw
+R:jig
+M:6/8
+K:GMix
+A2G FGA|A2G BAG|A2G FGA|A^FD BGE:|\
+d2c B2A|c2B A2G|A2G FGA|A^FD BGE|\
+d2c B2A|c2B A2G|c2B ABc|dA^F BGE|]
+
+X:8
+T:Kate at the Gate
+C:Nigel Eaton
+R:scottische
+M:4/4
+K:D
+Bc|d2cd A3G|E2A2 A3F|G2FG E2FG|A2B2 G2E2|\
+   d2cd A3G|E2A2 A2GA|c2Bc d2ed|c2A2 A2:|
+de|f2d2 AfdA|e2c2 AecA|GFGB AdcA|GEGA GDde|\
+   f2d2 AfdA|e2c2 AecA|GFGB AdcA|GEAF D2de|
+f2d2 AfdA|e2c2 AecA|GFGB AdcA|dcde f=fec|\
+d2fd AfdA|e2c2 AecA|GFGB AdcA|GEAF D4|]
+def2 f3d|fga2 afga|g2e2 cgec|g2e2 cgec|\
+def2 f3d|fga2 afga|[1 gaba gfed|c6 Bc:|[2 b3ag3e|c3d c2|]
+
+X:9
+T:Magog Mazurka
+C:Chris Walshaw
+R:mazurka
+M:3/4
+K:F
+B2 BA BG|A2 AG A^F|G2 AG ^FE|^F2 DF GA|\
+B2 BA BG|A2 AG A^F|G2 A^F DF|G3 ^FGA:|
+B2 BA Bd|c6|dc BA GB|cB AG ^FA|\
+B2 BA Bd|c6|dc BA G^F|G3 ^FGA:|
+
+X:10
+T:Monkey Puzzle
+C:Chris Walshaw
+R:mazurka
+M:3/4
+K:D
+cA FA cA|BG EG BG|A4 AG|FE FG AB|\
+cA FA cA|BG EG BG|A4 AG|1 FG AB cd:|2 FE FG AG|]
+FA dF Ad|GB dG Bd|cB AG FE|F2 D2 AG|\
+FA dF Ad|GB dG Bd|[1 cB AB (3cBA|dc BA GA:|[2 cB AG FE|FG AB cd|]
+
+X:11
+T:Bluesaussis
+T:Blue Sausage Island
+C:Cliff Stapleton
+R:scottische
+M:C|
+K:C
+DEF^G A^GAB|c2B2 A^GAB|cABc d2e2|f4 e2d2|\
+DEF^G A^GAB|c2B2 A^GAB|cABc d2e2|d4 A2d2:|
+dfAd fAdf|e2d2 cdec|dfAd fAdf|e2d2 c4|\
+dfAd fAdf|e2d2 cdec|d^cAd =c2F2|[1 ^GAFA E2D2:|[2 ^GAFA E4|]
+
+X:12
+T:Biscuit Shuffle
+C:Cliff Stapleton
+R:scottische
+M:C|
+K:D
+D2FA G2E2|GFEF AFD2|EFGA E2GF|[1 EGBd c2A2:|[2 EDEF D4:|\
+d2d2 =c3B|AdBG A4|EFGA E2GF|[1 EGBd c2A2:|[2 EDEF D4:|
+
+X:13
+T:Poolside Polka
+C:Cliff Stapleton
+R:polka
+M:2/4
+K:D
+AG|F2A2 d2fe|d2cB A4|BdcB A2FA|[1 GFEF GE:|[2 GFEF D2:|
+EF|G2FG B2A2|F6 A2|[1 ABcd edcB|A6:|[2 ABcd edce|d6:|
+FG|A2A2 AFAd|A2A2 AFAd|BAGB AGFA|[1 GFEF GE:|[2 GFEF D2:|
+
