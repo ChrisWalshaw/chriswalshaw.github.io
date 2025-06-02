@@ -1,0 +1,111 @@
+%%dateformat \%b \%Y
+%%footer "\tOscina - 2025-08 Sidmouth workshops - new tunes ($d)\t$P"
+
+X:506
+T:ROUND RONDS (Sun)
+K:
+
+X:31
+T:Rond de Quercy
+R:dance
+S:https://www.youtube.com/watch?v=l30xcuglcUI
+M:6/8
+Q:1/4=180
+K:G
+E A2B | c3 cdc | B2B A2B | c3 cdc | B3 A2B | c3 cdc | B2B A2B | c3 cdc | B2E A2B | 
+c3 B2A | B2A G3 | A3 A3 | A2E A2B | c3 B2A | B2A G3 | A3 A3 | A2 |] 
+
+X:11
+T:Campouriez Bourr\'ee
+R:bourr\'ee (Auvergne)
+M:3/8
+L:1/16
+K:C
+g3fef | g2 a4 | gagfef | gfedc2 | g3fef | g2 a4 | gagfed | c6 :| 
+K:Cm
+e4 d2 | c2d2e2 | f2d2e2 | c4 =B2 | e4 d2 | c2d2e2 | f2d2e2 | c6 :| 
+
+X:47
+T:Bourr\'ee Monpazier
+R:bourr\'ee (3-time)
+S:seen at Monpazier, 23/7/24
+K:C
+
+X:507
+T:%%newpage
+K:
+%%newpage
+
+X:510
+T:VISIT TO THE VENDEE (Thu)
+K:
+
+X:57
+T:Maraichine, La
+R:dance
+H:from Guy Crayford - originally in D
+M:C|
+L:1/4
+N:see also: OB 3.4
+K:Gmaj
+Gd dB|dc/2B/2 AA|Gd dB|d2 A2::\
+A>B cB|AB/2A/2 GG|Ad cB|A2 G2:|
+
+X:53
+T:Mouvante
+R:dance
+M:2/4
+L:1/8
+K:Am
+ee fe | dd c>e | ee de | dc B2 |
+AB/c/ BA | GA B>e | ee dc | B2 A2 :| 
+AB/c/ BA | GA Be | ee dc | B2 A2 :| 
+
+X:58
+T:Vend\'ee couple dance
+R:dance
+K:C
+
+X:511
+T:%%newpage
+K:
+%%newpage
+
+X:512
+T:GATEWAY TO GASCONY (Fri)
+K:
+
+X:59
+T:Quoan J'èri Filha a Maridèr
+R:dance
+T:Branle d'Ossau
+L:1/8
+Q:1/4=120
+M:2/4
+L:1/16
+S:Bernard Loffet - originally in Am, transposed to Cm for G pipes
+K:Cm
+z6G2 | c3c c2d2 | e2c2 d2e2 | c3c c2d2 | e2c2 d2G2 | c3c c2d2 | e2c2 d2e2 | \
+c3c c2d2 | e2c2 d2G2 ||
+c3=B c2d2 | e2c2 d2e2 | f3d e2c2 | =B4 c2G2 | c3=B c2d2 | \
+e2c2 d2e2 | f3d e2c2 | =B4 c4 |]
+
+X:20
+T:Rondeau de Landes
+R:dance
+B:MCT1 124
+M:2/4
+L:1/16
+K:G
+G2d2 d2d2 | cBAB c2BA | G2d2 d2d2 | cBAB c4 :|
+G2AB A2A2 | G2AB c4 | c2de d2c2 |1 BcBA B2G2 :|2 BcBA G4 |]
+
+X:61
+T:Rondeau
+R:dance
+M:6/8
+H:from Le Gop Chesterfield '93
+G:C
+K:Gmaj
+B2c dBG|G2A B2G|B2c dBG|G2A B3:|\
+g2f e2d|efg d2c| [1 B2c dBG|G2A B3:| [2 B2c dcB|cBA G3|]
