@@ -1,12 +1,5 @@
 %%dateformat \%b \%Y
-%%footer "\tOscina - 2025-08 Sidmouth workshops ($d)\t$P"
-%%scale 1.0
-%%leftmargin 0
-%%rightmargin 0
-%%staffsep 5
-%%maxstaffsep 20
-%%titlespace 0cm
-%%partsfont sans-serifBold 15
+%%footer "\tOscina - 2025-08 Sidmouth workshops - all tunes ($d)\t$P"
 
 X:504
 T:BAL BASICS (Sat)
@@ -15,7 +8,7 @@ K:
 X:20
 T:Polka de Montserat
 R:polka
-%T:Urbain Trincal polkas I
+T:Urbain Trincal polkas I
 M:2/4
 L:1/8
 G:G instrument - pipes
@@ -30,7 +23,7 @@ Ge dc | B/c/A/B/ G2 | e/d/e/f/ ed | AB c2 |]
 X:21
 T:Polka \`a Riou
 R:polka
-%T:Urbain Trincal polkas II
+T:Urbain Trincal polkas II
 M:2/4
 L:1/8
 G:G instrument - whistle
@@ -45,11 +38,11 @@ e2 d2     | ef g2 | gf/e/ df | ed ec | e2 d2     | ef g2 | gf/e/ df | ed c2 :|
 X:22
 T:Polka \`a L\'eon Mazi\`ere
 R:polka
-%T:Urbain Trincal polkas III
+T:Urbain Trincal polkas III
 M:2/4
 L:1/8
 G:G instrument - pipes
-P:G pipes: 3x (can play ~G4 ~G4 in B, bars 1&3)
+P:G pipes: 3x
 %%transpose -5
 K:F
 e2 e2 | d/e/^f/d/ ec | d2 d2 | d/c/d/e/ c2 :| 
@@ -66,7 +59,7 @@ P:G whistle: 3x + 1A (don't play A1B1 play C1 | play tune A2 ...)
 K:G
 %%transpose 12
 "G"G3A BG | "C"c2B2G2 | "D"G2 A2 F2 | "G"G4 D2 | "Am7"E2 EA, EG | "Bm7"F2 FA, FA | "Em/C"GA B2 AG | "D"A6 | 
-"G"G3A BG | "Am7"c2B2G2 | "D/F#"G2 A2 F2 | "G/E"G4 "D"D2 | "Em/C"E3 D C2 | "Bm7"D2 A,B, C2 | "Am7"B,2 G,2 "D"A,- [F,A,] |1 "G"G,4 z2 :|2 "G"G,4 ||
+"G"G3A BG | "Am7"c2B2G2 | "D/F#"G2 A2 F2 | "G/E"G4 "D"D2 | "Em/C"E3 D C2 | "Bm7"D2 A,B, C2 | "Am7"B,2 G,2 "D"A,F, |1 "G"G,4 z2 :|2 "G"G,4 ||
 d2 | "C"e3d cB | "D"AG AB cd | "G"B2 G2 D2 | "C"E4 d2 | "Am7"e3d cB | "D"AG AB cd | "G"B6 | "G"B2 "Am7"c2 "Bm7"d2 | 
      "C"e3d cB | "D"AG AB cd | "G/"B2 G2 "G/D"D2 | "Em/C"E4 DC | "Bm7"B,D G4 | "D"A3 F D2 | "C"G2 GA "D"GF |1 "G"G4 d2 :|2 "G"G6 || 
 "C"CB, CD EF | G2 F2 A2 | "D"D6- | D6 | "C"CB, CD EF | G2 F2 D2 | "D"A6- | A6 | 
@@ -79,7 +72,7 @@ M:2/4
 L:1/8
 C:composed by Chris Walshaw for Anna Pack
 %C:upon the occasion of her birthday with a zero in it
-P:soprano: intro = last 8 bars of sung; 5x then sung; signal change at start of Bs
+P:soprano: 5x then sung
 %%transpose 2
 K:G
 G>A Bc | dB AG | E>F GA | BG FD | C>D EF | GF GA | BA Bc | A4 |
@@ -106,7 +99,7 @@ X:62
 T:L'ai aimada la molin\'era
 R:Rond du Quercy
 M:6/8
-P:don't play: 4x
+P:soprano: 4x
 %%transpose 2
 K:G
 |: A2B AGE | B2c B2A | A2B AGE | B2c B3 :: B2d c3 | A2c B3 | E2A GAB |1 B2c B2A :|2 B2c A3 |]
@@ -128,7 +121,7 @@ T:La n\`ostra paura Jacotina
 R:Rond du Quercy
 M:6/8
 C:Trad
-P:soprano: 4x; alternate FW/CW/FW/CW
+P:soprano: 4x
 %%transpose 2
 K:C
 E |: A2c B2c | d2B c2A | c2A AGA | B2B AGF | EFG A2E | EFG A2E :|
@@ -138,7 +131,7 @@ T:Quand mon paire
 R:Rond du Quercy
 M:6/8
 C:Trad
-P:soprano: 4x; held note at end
+P:soprano: 4x
 %%transpose 2
 K:G
 |: A2A ABA | B2B c2B | A2A ABA | B2B c2B :: A2B A2G | F2E A3 | A2B ABG | F2E A3 :|
@@ -156,11 +149,11 @@ B/c/d/e/ | f>f ef dB B/c/d/e/ | f>f ef dB B/c/d/e/ | f>f ef dB ||
 
 X: 29
 T:Mon habit
-R:bourr\'ee (2-time)
 T:(Mon habit n'a qu'un bouton)
 C:traditionel
 F:https://abcnotation.com/tunePage?a=www.cambridgefolk.org.uk/cam-french/cam-french/0049
 A:France
+R:Bourree
 G:D instrument - pipes
 G:sax
 Z:abc transcription Simon Wascher
@@ -184,7 +177,6 @@ S:Trio Sautivet - Partir Revenir % 10
 M:2/4
 L:1/8
 G:sax
-P:soprano: 4x; come in 3rd time
 %%transpose 2
 K:G
 |: BG- GB | e3f | g>f ed | eA- AB | cF- FG |
@@ -197,7 +189,6 @@ T:Campouriez Bourr\'ee
 R:bourr\'ee (Auvergne)
 M:3/8
 L:1/16
-P:G pipes
 %%transpose -5
 K:C
 g3fef | g2 a4 | gagfef | gfedc2 | g3fef | g2 a4 | gagfed | c6 :| 
@@ -210,7 +201,6 @@ R:bourr\'ee (3-time)
 S:seen at Monpazier, 23/7/24
 M:3/8
 L:1/16
-P:G pipes
 %%transpose -5
 K:Cmaj
 |: e2g2f2 | e4d2 | cdedef | efedc2 | e2g2f2 | e4d2 |1 cdedef | g6 :|2 cde2d2 | c4 ed ||
@@ -309,7 +299,7 @@ S:from Anna Pack, Dec 2022
 L:1/8
 M:4/4
 G:sax
-P:soprano: slow+6+ (A1B1 slow CW, then K+[DK]x3) [AP CALLS ALL CHANGES]
+P:soprano: 6+x (A1B1 slow CW, then [K]+DK) [AP CALLS ALL CHANGES]
 %%transpose 2
 K:Fmaj
 |:"Dm"GA "Dm"AG F"Am"G F/2E/2D|"Dm"GA "Dm"AG (F"Am"F)F2:|\
@@ -322,7 +312,7 @@ S:from Anna Pack, Dec 2022
 L:1/8
 M:4/4
 G:sax
-P:soprano: 4+x (go wild; held note E at end)
+P:soprano: 6+x (go wild; held note E at end)
 %%transpose 2
 K:Fmaj
 |:"Dm"DF/2F/2 "Dm"FA A"C"G E"Am"F| "Dm"DF/2F/2 "Dm"FA A"C"G (E"Am"E):|\
@@ -497,7 +487,6 @@ S: abc from Anna Pack, 7/21
 L: 1/8
 M:6/8
 G:sax
-P:soprano
 %%transpose 2
 K: Dm
 |:"Dm"d2e fed|"Am7"e2f e2a| "Bb"a2g fef|"A"g2f e3|
@@ -511,7 +500,6 @@ R:dance
 S:https://www.youtube.com/watch?v=gQEKNnMQA-k - dance
 M:2/4
 L:1/8
-P:soprano
 %%transpose 2
 K:Am
 ee fe | dd c>e | ee de | dc B2 |
@@ -519,15 +507,13 @@ AB/c/ BA | GA B>e | ee dc | B2 A2 :|
 AB/c/ BA | GA Be | ee dc | B2 A2 :| 
 
 X:58
-T:Martel (Vend\'ee couple dance)
+T:Vend\'ee couple dance
 R:dance
 M:6/8
 Q:1/4=180
-P:soprano
 %%transpose 2
 K:G
-A2A d2d | e2f g2e | f2g fed | c2e d3 :|
- d2e d2B | cBA d2d | e2f e2B | cBA d3 :| 
+A2A d2d | e2f g2e | f2g fed | c2e d3 :| d2e d2B | cBA d2d | e2f e2B | cBA d3 :| 
 
 X:511
 T:%%newpage
@@ -546,8 +532,6 @@ Q:1/4=120
 M:2/4
 L:1/16
 S:Bernard Loffet - originally in Am, transposed to Gm for D pipes
-F:adapted from https://abcnotation.com/tunePage?a=trillian.mit.edu/~jc/music/abc/mirror/ifrance.com/diato/abc/35/0000
-P:soprano
 %%transpose 2
 K:Gm
 z6D2 | G3G G2A2 | B2G2 A2B2 | G3G G2A2 | B2G2 A2D2 | G3G G2A2 | B2G2 A2B2 | \
@@ -561,7 +545,6 @@ R:Rondeau en chaine
 B:MCT1 124
 M:2/4
 L:1/16
-P:soprano
 %%transpose 2
 K:G
 G2d2 d2d2 | cBAB c2BA | G2d2 d2d2 | cBAB c4 :|
@@ -573,10 +556,9 @@ M:6/8
 R:Rondeau
 H:from Le Gop Chesterfield '93
 G:C
-P:soprano
 %%transpose 2
 K:Gmaj
-B2c dBG|G2A B2G|B2c dBG|G2A B3:|
+B2c dBG|G2A B2G|B2c dBG|G2A B3:|\
 g2f e2d|efg d2c| [1 B2c dBG|G2A B3:| [2 B2c dcB|cBA G3|]
 
 X:69
@@ -584,35 +566,7 @@ T:Rondeau de Gabarret
 R:Rondeau
 C:Trad
 M:6/8
-P:soprano
 %%transpose 2
 K:C
-G2A B3 | AcA B3 | ABA G2F |1 A2F G2D :|2 A2F G3 ||
+G2A B3 | AcA B3 | ABA G2F |1 A2F G2D :|2 A2F G3 ||\
 |: GAB c2c | A2c B3 | ABA G2F |1 A2F G2D :|2 A2F G3 |]
-
-X:81
-T:Recession, The
-R:jig
-C:Sylvain Barou
-M:6/8
-P:soprano: 5x; X|X|harmony|tune|skeleton
-%%transpose 2
-K:Gmaj
-V:1
-|: "Am"A3 GAE | A3 GAE | "C"A3 cAd | "G"dcB AGE | "Am"A3 GAE | A3 AGE | "C"CDE DEG | "Em"EGA GED :| 
-|: "C"g2e gaf- | "D"f2d fge- | "A"e2A ^cdd | ^cAG A3 |1 "C"g2e gaf- | "D"f2d fge- | "A"e2A ^cdd | ^cAG A3 :|2
-"C"g2e ga"D"f- | f2d fg"Dm"=f- | =f2d fg"F"f | ed"G"c Bdc |]
-V:2
-|: A2 A4 | A2 A4 | c2 c4 | d2 d4 |  A2 A4 | A2 A4 | C3 D3 | E3 G3 :| 
-|: G3- G2 F- | F3- F2E-  | E6 | ^C6 |1 G3- G2 F- | F3- F2E-  | E6 | ^C6 :|2
-G3- G2 F- | F3- F2=F-  | =F2d =fgf | edc Bdc |]
-
-X:82
-T:Piggjigg
-R:jig
-M:6/8
-P:soprano: 5x; 3rd drop then build; end on first bar + held B
-%%transpose 2
-K:Cmaj
-|: "G"cBG- GFG | "F"FEF GFG | "G"cBG- GFG | "F"FEF G3 ::
- "Am"AA2- AGA | "F"cAc "G"BGB | "Am"AA2- AGA | "F"[c3c]Ac "Em"[e3e]fg :| 
