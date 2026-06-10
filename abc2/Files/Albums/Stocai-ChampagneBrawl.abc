@@ -1,0 +1,146 @@
+H: Stocai - Champagne Brawl (abcs assembled by Chris Walshaw - chwalshaw@gmail.com)
+
+X:1
+T:Poolside Polka
+C:Cliff Stapleton
+R:polka
+M:2/4
+K:D
+AG|F2A2 d2fe|d2cB A4|BdcB A2FA|[1 GFEF GE:|[2 GFEF D2:|
+EF|G2FG B2A2|F6 A2|[1 ABcd edcB|A6:|[2 ABcd edce|d6:|
+FG|A2A2 AFAd|A2A2 AFAd|BAGB AGFA|[1 GFEF GE:|[2 GFEF D2:|
+
+X:2
+T:Caf\'e Charbons Jig
+C:Trad.
+M:6/8
+R:jig
+K:G
+DGB|d^cd BeB|d^cd BeB|cBc AFA|d^cd eGB|\
+    d^cd BeB|d^cd BeB|cBc AFA|G3:|
+GFG|A2A DFA|B2B GAB|cBc ABc|B2G GFG|\
+    A2A DFA|B2B GAB|cBA GAF|G3:|
+
+X:3
+T:Queen of Hearts, The
+C:John Kirkpatrick arr. Chris Walshaw
+M:6/8
+R:jig
+K:D
+A|:d3 c3|B3 A3|GFE F2D|EFG ABc|\
+d2A c2A|BAG A2F|GFE FED|[1 EFE D2A:|[2 EFE D3|]
+DEF FGA|ADE FED|EFE G2B|BEF GFE|\
+ADE FGA|BEF G2E|FED G2F|[1 EFE D3:|[2 EFG ABc|]
+
+X:4
+T:Scottish \`a Virmoux
+C:Trad.
+M:C|
+R:scottische
+K:D
+DAGF A3F|GFGA B2A2|AdAF G2FE|[1 FAFD E4:|[2 DAGF D4:|
+|:d2A2 d3c|BABc dedB|A2D2 A2GF|[1 EFGA BABc:|[2 EFGA D4:|
+
+X:5
+T:Biscuit Shuffle
+C:Cliff Stapleton
+R:scottische
+M:C|
+K:D
+D2FA G2E2|GFEF AFD2|EFGA E2GF|[1 EGBd c2A2:|[2 EDEF D4:|\
+d2d2 =c3B|AdBG A4|EFGA E2GF|[1 EGBd c2A2:|[2 EDEF D4:|
+
+X:6
+T:Boodle Lope
+C:Heather Vigar-Horsley
+M:6/8
+R:jig
+K:F
+d2B c2A|BAG ^FED|d2B c2A|DE^F G3|\
+d2B c2A|BAG ^FED|DE^F G2A|B2c d3:|
+^F2G A2F|B2A GAB|c2A d2c|B2^F G3|\
+^F2G A2F|B2A GAB|c2A d3|d2^F G3:|
+
+X:7
+T:Lambert Waddle
+C:Heather Vigar-Horsley
+M:6/8
+R:jig
+K:C
+e2e e2c|dcB A2G|E2G _E2G|E2G C3|\
+d2B cBA|BAG AGF|E2G _E2G|E2G C3:|
+F2A d2c|B2A G2F|E2G e2d|c2B A2G|\
+F2A d2c|B2A G2F|E2G _E2G|E2G C3:|
+
+X:8
+T:Hornet, The
+C:Kevin Adams
+M:4/4
+R:hornpipe
+K:D
+DFAd cdBc|Adcd BdA2|DFAd cdBd|edcB A2A2|\
+DFAd cdBc|Adcd BdA2|edcB AABc|1 d2d2 d4:|2 d2d2 d3|]
+e|fdcd Bfed|cBcd B2B2|ecBc A2A2|ecBc A2de|\
+  fdcd Bfed|cBcd B2B2|efde cdBc|1 A2A2 A2d:|2 ABGA FGEF|]
+
+X:9
+T:Boddington
+C:Gavin Atkin
+M:6/8
+R:jig
+K:D
+e|fed A2A|GBd Ace|fed A2A|GBd e2e|fed A2A|GBd Ace|GBG ABc|d3  d2:|
+A|FAF fed|GBd gfe|ABA ABc|dFA fed|FAF fed|GBd gfe|ABA ABc|d3  d2:|
+
+X:10
+T:T. J.'s
+C:Dave Jolly
+M:6/8
+R:jig
+K:F
+A|d2f e2d|A3-A2B|c3 d3|e2f gfe|d2f e2d|A3-A2B|A2G F2E|D3-D2:|
+E|F2D DEF|G2E EFG|A2c FAc|^c2A-A2G|F2D DEF|G2E EFG|A2G F2E|D3-D2E|
+F2D DEF|G2E EFG|A3 =B3|^c3 A3|d2f e2d|A3-A2B|A2G F2E|D3-D2|]
+
+X:11
+T:Tender Trap, The
+C:Bob Tracey
+M:3/4
+R:waltz
+K:D
+GF|E2 EF GA|Be B2 BA|GF GA BG|AF dA FG|\
+   ED EF GA|Be B2 BA|Fd AF DF|FG/F/ E2:|
+EF|G2 GF G/A/B|AF d2 c/d/^d|e=c g2 ge|fd a2 ga|\
+   bge gfd |e=cB ecA|GF AF DF|FG/F/ E2:|
+
+X:12
+T:Sty at night, The
+C:Alan Lamb
+R:scottische
+M:4/4
+K:G
+EBAB GBFB|EBAB G2E2|cBAG EFGA|cBAG EFGE|\
+DAGA FAEA|DAGA F2D2|BAGF BAGF|[1 B2A2 G2F2:|[2 B4-B4|]
+E2G2 B2e2|d3c BcdB|c3B ABcA|F2FG AFGF|\
+E2G2 B2e2|d3c BcdB|c3B ABcA|F4-F4:|
+
+X:13
+T:Iron Legs
+C:Trad.
+M:4/4
+R:scottische
+K:D
+AG|F2A2 A2Bc|d2A2 A2A2|B2c2 d2ed|cdBc A2AG|\
+   F2A2 A2Bc|d2A2 A2A2|Bcde fedc|d4 d2:|
+g2|fgfg efef|fgfg efef|dede cdcd|dede cdcd|\
+   BcBc ABAB|BcBc ABAB|Bcde fedc|d4 d2:|
+
+X:14
+T:Champagne Brawl
+M:C
+R:scottische
+K:D
+DEFG A2d2|=cBAG F2EF|G2G2 F2EF|G2F2 E2D2|\
+DEFG A2d2|=cBAG F2EF|G2G2 F2ED|[1 CDEC D4:|[2 CDEC D2|]
+EF|G2FE F2EF|G2F2 EDEF|G2FE F2ED|[1 CDEC D2:|[2 CDEC D4|]
+
